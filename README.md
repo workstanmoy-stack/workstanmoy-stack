@@ -53,11 +53,4 @@ A system is only as good as its weakest assumption.
 I spend most of my time trying to find that assumption
 before someone else does.
 
-<br>
 
-
-<br>
-
-<div align="center">
-<sub>thanks for reading this far.</sub>
-</div>
