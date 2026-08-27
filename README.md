@@ -1,4 +1,4 @@
-# A system can be configured to do what you want. If it can't do it yet, build it.
+A system can be configured to do what you want. If it can't do it yet, build it.
 
 ## stack
 
