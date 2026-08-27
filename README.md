@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm John 👋
 
-<!--
-**workstanmoy-stack/workstanmoy-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### FRONTEND + BACKEND + 
 
-Here are some ideas to get you started:
+I build web applications, APIs, and software projects with a focus on clean and maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+- **Languages:** JavaScript, Python, Java
+- **Frontend:** React, HTML, CSS
+- **Backend:** Node.js, Express
+- **Database:** PostgreSQL, MySQL
+- **Concepts:** Data Structures & Algorithms, OOP, SOLID, REST APIs, MVC
+- **Tools:** Git, GitHub, Docker
+
+---
+
+## 🚀 Featured Projects
+
+### Project Name
+Short explanation of what the project does and the engineering problems it solves.
+
+**Tech:** React · Node.js · PostgreSQL
+
+[View Project](YOUR_REPOSITORY_LINK)
+
+### Project Name
+Short explanation of another strong project.
+
+**Tech:** Java · Spring Boot · PostgreSQL
+
