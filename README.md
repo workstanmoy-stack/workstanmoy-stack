@@ -1,16 +1,9 @@
-<div align="center">
 
 <br>
 
-# hi, i build quietly
-
-<i>"Simplicity is the ultimate sophistication."</i>
+# A system can be configured to do what you want. If it can't do it yet, build it.
 
 <br>
-<br>
-
-</div>
-
 
 ## stack
 
