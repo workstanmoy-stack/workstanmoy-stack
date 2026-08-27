@@ -1,33 +1,38 @@
-# Hi, I'm John 👋
+                    ✦  YOUR NAME  ✦
+              software developer / builder
 
-### FRONTEND + BACKEND + 
+       ───────────────────────────────────────
 
-I build web applications, APIs, and software projects with a focus on clean and maintainable code.
+        I build things for the web.
+        I like clean architecture, good UX,
+        and understanding how things work.
 
----
+       ───────────────────────────────────────
 
-## 🛠️ Technical Skills
+          LANGUAGES          FRAMEWORKS
 
-- **Languages:** JavaScript, Python, Java
-- **Frontend:** React, HTML, CSS
-- **Backend:** Node.js, Express
-- **Database:** PostgreSQL, MySQL
-- **Concepts:** Data Structures & Algorithms, OOP, SOLID, REST APIs, MVC
-- **Tools:** Git, GitHub, Docker
+       ◉ JavaScript        ◈ React
+       ◉ TypeScript        ◈ Node.js
+       ◉ Python            ◈ Express
+       ◉ Java              ◈ ...
 
----
+       ───────────────────────────────────────
 
-## 🚀 Featured Projects
+                    SELECTED WORK
 
-### Project Name
-Short explanation of what the project does and the engineering problems it solves.
+       ┌─────────────────────────────────────┐
+       │  PROJECT NAME                       │
+       │  A short, elegant description       │
+       │                                     │
+       │  React · Node · PostgreSQL           │
+       └─────────────────────────────────────┘
 
-**Tech:** React · Node.js · PostgreSQL
+       ┌─────────────────────────────────────┐
+       │  PROJECT NAME                       │
+       │  Another interesting project        │
+       └─────────────────────────────────────┘
 
-[View Project](YOUR_REPOSITORY_LINK)
+       ───────────────────────────────────────
 
-### Project Name
-Short explanation of another strong project.
-
-**Tech:** Java · Spring Boot · PostgreSQL
-
+                 currently building
+                    something cool ✦
