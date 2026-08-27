@@ -11,7 +11,7 @@
 
 </div>
 
-## →
+## 
 
 I like software that disappears into what it does —
 no noise, no excess, just something that works
@@ -23,7 +23,7 @@ about what it's for.
 
 <br>
 
-## → stack
+## stack
 
 **Languages**
 Python · JavaScript · TypeScript · HTML/CSS · SQL
@@ -47,7 +47,7 @@ Authentication & Authorization · Caching · Scalability · Performance Optimiza
 
 <br>
 
-## →
+## 
 
 A system is only as good as its weakest assumption.
 I spend most of my time trying to find that assumption
@@ -55,13 +55,6 @@ before someone else does.
 
 <br>
 
-## → elsewhere
-
-<div align="center">
-
-[LinkedIn](https://linkedin.com/in/YOUR_LINK) · [Twitter](https://twitter.com/YOUR_LINK) · [Portfolio](https://yourwebsite.com)
-
-</div>
 
 <br>
 
