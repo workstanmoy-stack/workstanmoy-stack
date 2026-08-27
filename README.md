@@ -11,17 +11,6 @@
 
 </div>
 
-## 
-
-I like software that disappears into what it does —
-no noise, no excess, just something that works
-the way it was meant to.
-
-Most of what I make lives somewhere between
-a database and a browser, trying to be honest
-about what it's for.
-
-<br>
 
 ## stack
 
