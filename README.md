@@ -44,13 +44,3 @@ Docker · GitHub Actions (CI/CD) · AWS · Linux · Nginx · PM2 · VPS · Verce
 Data Structures & Algorithms · OOP · SOLID Principles · MVC Architecture
 RESTful API Design · System Design · Database Design & Normalization
 Authentication & Authorization · Caching · Scalability · Performance Optimization · Debugging
-
-<br>
-
-## 
-
-A system is only as good as its weakest assumption.
-I spend most of my time trying to find that assumption
-before someone else does.
-
-
